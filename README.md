@@ -5,7 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=suwantara" alt="suwantara" /></a> </p>
 
-- 🔭 I’m currently working on [Beratan Dairy Farm](https://github.com/suwantara/beratanweb#)
+- 🔭 I’m currently working on
+- [Beratan Dairy Farm](https://github.com/suwantara/beratanweb#)
+- [SI SEHAT](https://github.com/iniganz/SI-SEHAT#)
 
 - 🌱 I’m currently learning **Laravel, Next.Js**
 
